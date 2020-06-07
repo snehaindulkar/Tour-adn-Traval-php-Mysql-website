@@ -1,0 +1,5 @@
+Import tour.sql file in your mysql/phpadmin and then run the code
+In my project localhost port -3307
+In genrally its set to be 3306 
+but in my laptop i have differnet software's so on of the software used 3306
+plz note this
